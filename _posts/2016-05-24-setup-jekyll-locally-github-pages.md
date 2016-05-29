@@ -11,7 +11,7 @@ tags:
   - pages
   - setup
 
-modified: 2016-05-28T11:39:01-04:00
+modified: 2016-05-29T11:39:01-04:00
 ---
 
 Setting up Ruby for the first time, can be a challenging task. Especially if you are trying to do that on Windows, and with an existing project which you do not know. And a programming language that you do not know. But with time and patience, everything can be done.
@@ -28,7 +28,7 @@ Given the flavours of developer tools out there, this tutorial is intended for m
 * Sublime Text Build 3114
 
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/o0t3bSE6G-I?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/t9qDNe7xk4c?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 
