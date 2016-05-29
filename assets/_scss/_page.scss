@@ -73,7 +73,7 @@
       text-decoration: underline;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 10px rgba($theme-dark-color, 0.25);
       }
     }
   }
@@ -129,8 +129,8 @@
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      color: $theme-light-color;
+      text-shadow: 1px 1px 4px rgba($theme-dark-color, 0.5);
     }
 
     .page__title {
@@ -155,10 +155,10 @@
   right: 0;
   margin: 0 auto;
   padding: 2px 5px;
-  color: #fff;
+  color: $theme-light-color;
   font-family: $caption-font-family;
   font-size: $type-size-7;
-  background: #000;
+  background: $theme-dark-color;
   text-align: right;
   z-index: 5;
   opacity: 0.5;
@@ -169,7 +169,7 @@
   }
 
   a {
-    color: #fff;
+    color: $theme-light-color;
     text-decoration: none;
   }
 }
@@ -210,7 +210,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: mix($theme-light-color, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
 

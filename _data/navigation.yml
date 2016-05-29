@@ -5,7 +5,8 @@ main:
     url: /about/
 
   - title: "Guides"
-    url: /tags/#guides
+    url: /categories/#guides
 
   - title: "Academia"
-    url: /tags/#academia
+    url: /categories/#academia
+
