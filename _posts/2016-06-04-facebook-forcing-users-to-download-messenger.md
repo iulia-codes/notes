@@ -2,7 +2,7 @@
 title: "Facebook forcing users to download messenger"
 read_time: true
 categories:  
-  - uncategorized
+  - guides
 tags:
   - facebook
   - messenger
