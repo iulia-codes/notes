@@ -5,7 +5,6 @@
 {% else %}
   {% capture teaser %}{{ site.teaser }}{% endcapture %}
 {% endif %}
-
 <div class="{{ include.type | default: "list" }}__item">
   {% if post.link %}
     <a href="{{ post.link }}" target="_blank">
@@ -13,6 +12,9 @@
     <a href="{{ base_path }}{{ post.url }}">
   {% endif %}
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      {% if post.date %}<meta itemprop="datePublished" content="{{ post.date | date: "%B %d, %Y" }}">{% endif %}
+      {% if post.modified %}<meta itemprop="dateModified" content="{{ post.modified | date: "%B %d, %Y" }}">{% endif %}
+
       {% if include.type == "grid" and teaser != blank %}
         <div class="archive__item-teaser">
           <img src=
@@ -25,9 +27,16 @@
         </div>
       {% endif %}
       <h2 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %}{{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h2>
-      {% if post.read_time %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-      {% endif %}
+      
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %} 
+        {% if post.date %}
+          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published: <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+        {% endif %}
+        {% if post.modified %}
+          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label }} <time datetime="{{ post.modified | date: "%Y-%m-%d" }}">{{ post.modified | date: "%B %d, %Y" }}</time>
+        {% endif %}        
+        </p>
+      
       {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     </article>
   </a>

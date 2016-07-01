@@ -12,6 +12,7 @@ tags:
   - setup
 
 modified: 2016-05-29T11:39:01-04:00
+date: 2016-05-29T11:39:01-04:00
 ---
 
 Setting up Ruby for the first time, can be a challenging task. Especially if you are trying to do that on Windows, and with an existing project which you do not know. And a programming language that you do not know. But with time and patience, everything can be done.
