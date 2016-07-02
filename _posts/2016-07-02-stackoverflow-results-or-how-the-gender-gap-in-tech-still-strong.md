@@ -15,7 +15,7 @@ gallery:
 ---
 
 
-Each year, <a href="http://stackoverflow.com/research/developer-survey-2016" target="_blank">Stackoverflow</a> publishes results of the information shared by the users. This includes, "where they work, what they build and who they are".
+Each year, <a href="http://stackoverflow.com/research/developer-survey-2016" target="_blank">Stackoverflow</a> publishes results of the information shared by the users. This includes, "where they work, what they build and who they are". And each year, it comes as no surprise, that the gender gap between men and women in tech industry grows. And not in a good way.
 
 {% include gallery caption="The Stackoverflow survery results displaying the **gender gap**." %}
 
