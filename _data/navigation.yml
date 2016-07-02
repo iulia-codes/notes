@@ -7,6 +7,10 @@ main:
   - title: "Guides"
     url: /categories/#guides
 
-  - title: "Academia"
+  - title: "Academia"  
     url: /categories/#academia
+
+  - title: "Search"
+    url: /search
+
 
