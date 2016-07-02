@@ -10,8 +10,8 @@ tags:
   - life
   - germany  
 
-modified: 2016-05-28T11:39:01-04:00
-date: 2016-05-28T11:39:01-04:00
+#modified: 2016-05-28T11:39:01-04:00
+
 ---
 
 If you are visiting Germany for the first time, and also planning to stay, then you should know a few things before coming here. Plan ahead, plan thoroughly. The information listed below is my experience with getting started as a student in Germany. You should know that each Land regulates the school rules, therefore the rules might differ from land to land.

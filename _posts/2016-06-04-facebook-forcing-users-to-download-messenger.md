@@ -9,8 +9,8 @@ tags:
   - forced download
   - browser
 
-modified: 2016-06-04T11:39:01-04:00
-date: 2016-06-04T11:39:01-04:00
+#modified: 2016-06-04T11:39:01-04:00
+
 
 ---
 
@@ -25,3 +25,5 @@ Facebook decided that I MUST use their Facebook messenger app. And so they are a
 Facebook messenger. Abusive, to somewhat standard.
 
 To be continued....
+
+---
