@@ -15,9 +15,19 @@ The main changes are in main.scss where I define:
 
 Basically, only a few variables need to be defined at the top, to have all the website look and feel changed.
 
+**Regenerate style**
+
+In the bash console type:
+
+
 ```
-$theme_name              : rain;
-//$theme_name              : sakura;
+npm run scss
+```
+
+
+```
+//$theme_name              : rain;
+$theme_name              : sakura;
 //$theme_name              	: default;
 
 
