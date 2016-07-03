@@ -15,7 +15,7 @@ The main changes are in main.scss where I define:
 
 Basically, only a few variables need to be defined at the top, to have all the website look and feel changed.
 
-{% highlight ruby %}
+```
 $theme_name              : rain;
 //$theme_name              : sakura;
 //$theme_name              	: default;
@@ -47,7 +47,7 @@ $info-color                 : #52adc8;
 	$primary-color             : #6B316C;	//navigation top
 	$info-color                : #D69DAE; //links color in text
 }
-{% endhighlight %}
+```
 
 <h2>Social</h2>
 
