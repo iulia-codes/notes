@@ -111,7 +111,7 @@ After you sign the registration to the University, you will receive a two weeks 
 
 When you move to Germany, you must register with the city. This means, you must inform the city that you have just moved in. This is called Anmeldung. Not doing so, is illegal.
 
-To register with the city, you must make an appointment first. Visit the Stadthaus website of your local city, and make an appointment online. For example, for Bonn, one may do so at the following <a href = "https://netappoint.de/ot/stadtbonn/?company=stadtbonn"> link </a>.
+To register with the city, you must make an appointment first. Visit the Stadthaus website of your local city, and make an appointment online. For example, for Bonn, one may do so at the following <a href = "https://netappoint.de/ot/stadtbonn/?company=stadtbonn" target="_blank"> link </a>.
 
 It is very important that you visit the offices exactly when the opening hours are. When you visit the office they will require from you:
 
