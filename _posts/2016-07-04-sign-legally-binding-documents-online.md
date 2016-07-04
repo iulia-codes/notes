@@ -8,8 +8,6 @@ tags:
   - online
   - legally binding
   - freelance
-date: 2016-07-04
-
 
 ---
 
@@ -21,6 +19,6 @@ I have signed up there in a few minutes - using my existing Google account. Then
 * single document signing (I sign the document)
 * document download, share and send by email
 
-The free option of the website allows you to sign 3 documents per month. If you would like to upgrade to other features of the website, then the paid option is available. 
+The free option of the website allows you to sign 3 documents per month. If you would like to upgrade to other features of the website, then the paid option is available. Have you tried this option? Has it worked for you?
 
 ---
