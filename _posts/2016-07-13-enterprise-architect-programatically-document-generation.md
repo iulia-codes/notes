@@ -16,7 +16,7 @@ What the tool can improve is the way to generate documents based on the Automati
 
 There are two ways to generate documents in EA Sparx:
 1)  DocumentGenerator
-
+```
 function createDocument( docName, docPath  )
 {
     var Gentor as EA.DocumentGenerator;
@@ -27,13 +27,13 @@ function createDocument( docName, docPath  )
 }
 
 createDocument ("yourDocName", "yourDocPath");
-
+```
 2)  Virtual Document 
 
 This option is based on this link from <a href="https://bellekens.com/2015/11/12/tutorial-generate-complex-documents-from-enterprise-architect-with-a-two-step-semi-automated-approach/" target="_blank"> Bellekens </a>
 but adapted.
 The code below calls RunReport that runs the F8 (or generate documents) document generation option.
-
+```
 !INC Local Scripts.EAConstants-JScript
 
 function main()
@@ -47,7 +47,7 @@ function main()
 }
 
 main();
-
+```
 
 
 ---
