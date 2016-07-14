@@ -15,7 +15,8 @@ Enterprise Architect is a tool for architecture modelling at base, but can be us
 What the tool can improve is the way to generate documents based on the AutomationInterface.
 
 There are two ways to generate documents in EA Sparx:
-  1.  DocumentGenerator
+
+1.  DocumentGenerator
 
     ```
     function createDocument( docName, docPath  )
@@ -30,7 +31,7 @@ There are two ways to generate documents in EA Sparx:
     createDocument ("yourDocName", "yourDocPath");
     ```
     
-  2.  Virtual Document 
+2.  Virtual Document 
 
 This option is based on this link from <a href="https://bellekens.com/2015/11/12/tutorial-generate-complex-documents-from-enterprise-architect-with-a-two-step-semi-automated-approach/" target="_blank"> Bellekens </a>
 but adapted.
