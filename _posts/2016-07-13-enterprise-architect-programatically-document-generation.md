@@ -16,7 +16,7 @@ What the tool can improve is the way to generate documents based on the Automati
 
 There are two ways to generate documents in EA Sparx:
 1)  DocumentGenerator
-
+{% highlight  %}
   function createDocument( docName, docPath  )
   {
       var Gentor as EA.DocumentGenerator;
@@ -27,6 +27,7 @@ There are two ways to generate documents in EA Sparx:
   }
 
   createDocument ("yourDocName", "yourDocPath");
+{% endhighlight %}
 
 2)  Virtual Document 
 
