@@ -1,3 +1,15 @@
+---
+title: "A dictionary example with Enterprise Architect "
+read_time: true
+categories:  
+  - architecture
+tags:
+  - enterprise architect
+  - dictionary
+  - sparx
+  
+---
+
 ```ruby
 /*
  * Script Name: A simple dictionary example
