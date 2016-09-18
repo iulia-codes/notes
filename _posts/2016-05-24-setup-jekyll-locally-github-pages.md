@@ -52,6 +52,8 @@ Verify Ruby executable is added to your PATH (otherwise restart your computer)
 
 ! Important: the version of DevKit must match the version of installed Ruby 
 
+DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
+
 x64-> x64
 
 Switch to DevKit root folder and run in the command line:
