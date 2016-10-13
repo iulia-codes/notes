@@ -1,5 +1,5 @@
 ---
-title: "A dictionary example with Enterprise Architect "
+title: "Recommended reading for computer scientist "
 read_time: true
 categories:  
   - academia
