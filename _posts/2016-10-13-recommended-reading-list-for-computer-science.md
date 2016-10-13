@@ -1,5 +1,5 @@
 ---
-title: "Recommended reading for computer scientist "
+title: "Recommended reading for computer scientists "
 read_time: true
 categories:  
   - academia
