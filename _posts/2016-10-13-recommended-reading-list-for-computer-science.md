@@ -18,4 +18,3 @@ The link is here: <a href="http://olympiads.win.tue.nl/ioi/study/books.html" tar
 
 What are your preferred readings and what have you read so far? Let me know in the comments!
 
-```
