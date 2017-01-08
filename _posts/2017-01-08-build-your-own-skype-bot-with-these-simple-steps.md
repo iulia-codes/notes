@@ -46,5 +46,6 @@ Get acquainted with the open source builder SDK. This SDK can be used to build N
 
 Although the community is closed, you can sign up with your skype account and pose your questions there. What is nice is that you will have answers from real people working on the real project of the SDK for Skype. So take a plunge - <a href="https://community.skype.com/t5/Skype-Bot-Developers/gp-p/Bot_devs" target="_blank">dive into it</a>.
 
+<h2>What is your next great idea for a Skype bot? Share it here!</h2>
 
 ---
