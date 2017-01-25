@@ -129,6 +129,32 @@ I like Udacity's take on closures. <a href="https://classroom.udacity.com/course
 
 The top of the cake is maybe this take of Pluralsight <a href="https://app.pluralsight.com/player?course=advanced-javascript&author=kyle-simpson&name=advanced-javascript-m3&clip=0" target="_blank">https://app.pluralsight.com/player?course=advanced-javascript&author=kyle-simpson&name=advanced-javascript-m3&clip=0</a>
 
+<b>Definition 4: (Closures)</b> Closure is the capability for a function to remember and access its lexical scope even when the function is executing outside that lexical scope.
+
+Javascript has first class functions: functions can be passed around and executed in different environments.
+
+```javascript
+
+function foo(){
+    var firstScope = "one";
+
+    function inside(){
+        console.log(firstScope);
+    }
+
+    bam(baz);
+}
+
+function bam(baz){
+    baz(); //"bar"
+}
+
+foo();
+
+```
+
+We call function bam. There is a bubble around 1-9 and function can access the variable on line 12. The lexical scope stayed attached to that function, no matter where it was transported.
+
 <h2>What practical example have you used to understand closures? Share it here!</h2>
 
 ---
