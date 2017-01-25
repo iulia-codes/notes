@@ -1,5 +1,5 @@
 ---
-title: "Closure for dummies - a complete guide to understanding closured in Javascript"
+title: "Closure for dummies - a complete guide to understanding closures in Javascript"
 read_time: true 
 categories:  
   - guides
