@@ -29,7 +29,7 @@ Bob defines a closure as <i>a special type of object, that combines a function a
 
 You are binding some data to a function, storing it as a variable for later usage in the program. 
 
-*Learn closures with a definitive example
+* Learn closures with a definitive example
 
 Javascript uses <i>lexical scoping</i> - functions are executed using the variable scope that was in effect when they were <b>defined</b> not the variable scope that is in effect when they are invoked. 
 
@@ -63,7 +63,7 @@ Each invocation of counter() creates a new scope chain and a new private variabl
 
 So if you call counter() twice, two counter objects with different private variables will result.
 
-* Master the JavaScript interview : What is a closure?
+*  Master the JavaScript interview : What is a closure?
 
 This article from  <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.s8tp5gf5h" target="_blank">Medium</a>.
 
