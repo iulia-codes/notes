@@ -33,6 +33,12 @@ git ignore myFile.extension
 git uningnore myFile.extension
 
 
-  
+Amend the previous commit:
+
+git commit --amend
+
+Create a patch from the last commit:
+
+git format-patch -1 HEAD  --stdout > 0001-last-commits.patch
   
   
