@@ -41,4 +41,12 @@ Create a patch from the last commit:
 
 git format-patch -1 HEAD  --stdout > 0001-last-commits.patch
   
+Create a patch from the last commit (another variant that prints the file name as the commit name):
+
+git format-patch -1 <SHA1-ID>
+
+Apply a patch from the last patch file:
+
+patch -p1 < example.patch
+
   
