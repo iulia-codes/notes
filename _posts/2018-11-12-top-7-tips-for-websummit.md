@@ -18,15 +18,13 @@ First, what you need to know is that websummit  is more than a conference. It is
 
 ## Five tips for websummit
 
-1. Prepare early 
+1. Prepare & Research early
 
-You can pre-register for the yearly event as quick as from the last day of the current websummit.
+    You can pre-register for the yearly event as quick as from the last day of the current websummit.
 
-Since the event is held yearly in late autumn, perhaps planning in January- February is a good idea.
+    Since the event is held yearly in late autumn, perhaps planning in January- February is a good idea.
 
-I got my ticket in February 2018 for the year‘s summit.
-
-1. Research early
+    I got my ticket in February 2018 for the year‘s summit.
 
     With around 60.000 attendees, the event enables you to network with like-minded people. 
 
@@ -62,5 +60,5 @@ I got my ticket in February 2018 for the year‘s summit.
 
     Websummit releases an app yearly. With this app you can find peers that share the same interest, company or location. Make a use of the app to create contacts.
 
-    
+
 Hope you have learned some new things. Have you participated at websummit before? Let me know your questions and I will answer them below.
