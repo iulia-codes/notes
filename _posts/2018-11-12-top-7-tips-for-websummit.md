@@ -18,7 +18,7 @@ First, what you need to know is that websummit  is more than a conference. It is
 
 ## Five tips for websummit
 
-#1. Prepare early 
+1. Prepare early 
 
 You can pre-register for the yearly event as quick as from the last day of the current websummit.
 
