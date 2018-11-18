@@ -12,7 +12,7 @@ tags:
   
 ---
 
-Websummit is the biggest tech conference in the world. This year I have attended websummit for the first time. With this post, I will share with the world tips & tricks, what I have learned and how you can get the modt of websummit.
+Websummit is the biggest tech conference in the world. This year I have attended websummit for the first time. With this post, I will share with the world tips & tricks, what I have learned and how you can get the most of websummit.
 
 First, what you need to know is that websummit  is more than a conference. It is a gathering where tech leaders, political & governmental people come together. Startups, angels and investors are also going to be on site.
 
