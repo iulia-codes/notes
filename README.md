@@ -64,6 +64,7 @@ $info-color                 : #52adc8;
 * Included the AddThis social sharing instead of custom sharing
 
 <a href="http://www.addthis.com/" target="_blank">AddThis</a> is great. It allows to include sharing sidebars, while also track the sharings.
+It is based on customized Minimal Mistakes. Visit it here <a href="http://iulia-codes.github.io/notes/"> http://iulia-codes.github.io/notes/ </a>
 
 [![Minimal Mistakes live preview][2]][1]
 
