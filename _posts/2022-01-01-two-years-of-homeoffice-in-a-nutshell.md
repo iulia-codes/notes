@@ -2,62 +2,48 @@
 title: "Two Years in Homeoffice in a Nutshell"
 read_time: true
 categories:  
-  - websummit
-  - conference
+  - life
+  - work from home
 tags:
   - homeoffice
   - flex work
   - work from home
   - corona
-  - pandemie
+  - pandemic
+  - coronavirus
   
 ---
+# Two Years in Homeoffice in a Nutshell
+
+## Introduction
+
+It is 659 days from the start date to the end date, but not including the end date.
+
+Or 1 year, 9 months, 19 days excluding the end date.
+
+Or 21 months, 19 days excluding the end date.
+
+What do these numbers mean ? I will share the story below and as well what home office setup I have *that works*.
+## A warm spring
+
+2020 started like any other year. The weather was getting warmer, the flowers were blooming and we just celebrated international woman's day on the 8th of March. The work routine was following its normal course - drive to work, code, lunch, code and then go at the gym or home.
+
+## Last day at the gym
+
+Religously going to the gym as my habit dictates it, after work, at one of the gyms that our company provides for the employees. A benefit which I am very grateful for!
+
+In that specific day I was doing my running routine as usual. I started running in 2014 using the couch25k program (highly recommend!). The gym was empties than usual, but I did not think much of it, as it was usually empty at that time. However, the next day, everything changed.
 
 
+## Homeoffice where possible
 
-## Five tips for websummit
+Homeoffice was something I have experience with before. In that day of 13th of March 2020, the first day of homeoffice officially started. The world was just starting to experience the rage of the coronavirus, so to protect us, our company recommended us to work from home.
 
-1. Prepare & Research early
+My initial setup looked as below:
 
-    You can pre-register for the yearly event as quick as from the last day of the current websummit.
+{% include base_path %}
 
-    Since the event is held yearly in late autumn, perhaps planning in January- February is a good idea.
+{% capture fig_img %}
+![Initial Homeoffice setup in spring 2020]({{ base_path }}/images/2022-01-01/2020-home-office-setup.jpg)
+{% endcapture %}
 
-    I got my ticket in February 2018 for the year‘s summit.
-
-    With around 60.000 attendees, the event enables you to network with like-minded people. 
-
-    Depending on the reason you are visiting, make a list of the companies you are interested in.
-
-2. Participate at Partner workshops
-
-    You will find that most of the presentations are very high level. But going to the partner workshops is a very good idea to dwelve deeper into a specific topic ( and by this, I mean hands on code) aws from amazon had a pretty strong presence this year.
-
-3. Participate at sunset summit / night summit
-
-    The sunset summit is a post-presentation event. It has a colorful vibe as it will give you a quick intro to Portugal. There you will be able to experience the taste, sound, culture of Portugal. You will get some free snacks like cheese or donuts, but prepare to invest from your own pocket.
-
-    Night summit is a similar ideea, with location within Lisbon.
-
-4. Bring your own food and a bottle 
-
-    I cannot stress this enough. There is street food at the event, but the long queues will wear you off. Also the prices are double if not triple with what you would pay in Lisbon.
-
-    This was quite disappointing to be honest.
-
-    Also, bring your own water bottle. Water is free and you will get a chance to refill the bottle to keep you hydrated and happy. Expect some deltaQ coffee as well, but the quality of the coffee could be improved in my ( and others ) opinion.
-
-5. Wear your most comfortable shoes
-
-    This is no joke. You will have to sprint a lot through the pavilions. Make sure you wear the most comfy shoes you have, preferrably with a bigger sole. Only in the first day, I walked 14 km :)
-
-6. Visit the booths
-
-    There are rarely any freebies at websummit. Knowledge is , however, for free. Make contact with the companies there if you are interested in a specific topic. They will want to scan your badge, and you will get a small gift for that. Sometimes there will be small games that you van play. Table tennis ( kicker) was pretty popular this year.
-
-7. Network using the app
-
-    Websummit releases an app yearly. With this app you can find peers that share the same interest, company or location. Make a use of the app to create contacts.
-
-
-Hope you have learned some new things. Have you participated at websummit before? Let me know your questions and I will answer them below.
