@@ -9,7 +9,7 @@ tags:
   - developer
   - life
   - beginnings
-  - girl
+  - womenintech
   - coder
 
 modified: 2016-05-28T11:39:01-04:00
