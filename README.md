@@ -1,6 +1,6 @@
 # Iulia's Notes
 
-It is based on customized Minimal Mistakes. Visit it here <a href="http://iulitaro.github.io/notes/"> http://iulitaro.github.io/notes/ </a>
+It is based on customized Minimal Mistakes. Visit it here <a href="http://iulia-codes.github.io/notes/"> http://iulia-codes.github.io/notes/ </a>
 
 [![Minimal Mistakes live preview][2]][1]
 
