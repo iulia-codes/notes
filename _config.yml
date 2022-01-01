@@ -27,7 +27,7 @@ comments:
     appid                :
     num_posts            :  5 (default)
     colorscheme          : "light" # "light" (default), "dark"
-
+time                     : "2022"
 # SEO Related
 google_site_verification : "GbNIV-Fp3DWr8o00lcNZMlcXmgKz2c5O-o-KuuRpqfs"
 bing_site_verification   :
