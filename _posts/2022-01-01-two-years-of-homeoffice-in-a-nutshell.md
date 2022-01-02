@@ -13,8 +13,6 @@ tags:
   - coronavirus
   
 ---
-# Two Years in Homeoffice in a Nutshell
-
 ## Introduction
 
 It is 659 days from the start date to the end date, but not including the end date.
