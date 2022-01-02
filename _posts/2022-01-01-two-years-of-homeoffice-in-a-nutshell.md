@@ -11,7 +11,7 @@ tags:
   - corona
   - pandemic
   - coronavirus
-   overlay_image: 2022-01-01/2020-home-office-setup.jpg  
+   overlay_image: 2020-home-office-setup.jpg  
 #modified: 2022-01-01T11:39:01-04:00  
 ---
 Sharing my experience from the years of homeoffice.
@@ -47,7 +47,7 @@ My initial setup looked as below:
 {% include base_path %}
 
 {% capture fig_img %}
-![Initial Homeoffice setup in spring 2020]({{ base_path }}/images/2022-01-01/2020-home-office-setup.jpg)
+![Initial Homeoffice setup in spring 2020]({{ base_path }}/images/2020-home-office-setup.jpg)
 {% endcapture %}
 
 
