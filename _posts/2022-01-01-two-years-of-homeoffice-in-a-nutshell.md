@@ -11,7 +11,9 @@ tags:
   - corona
   - pandemic
   - coronavirus
-   overlay_image: 2020-home-office-setup.jpg  
+header:
+  overlay_image: 2020-home-office-setup.jpg  
+
 #modified: 2022-01-01T11:39:01-04:00  
 ---
 Sharing my experience from the years of homeoffice.
