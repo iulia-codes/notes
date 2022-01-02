@@ -11,8 +11,10 @@ tags:
   - corona
   - pandemic
   - coronavirus
-  
+   overlay_image: 2022-01-01/2020-home-office-setup.jpg  
+#modified: 2022-01-01T11:39:01-04:00  
 ---
+Sharing my experience from the years of homeoffice.
 ## Introduction
 
 It is 659 days from the start date to the end date, but not including the end date.
@@ -33,6 +35,9 @@ Religously going to the gym as my habit dictates it, after work, at one of the g
 In that specific day I was doing my running routine as usual. I started running in 2014 using the couch25k program (highly recommend!). The gym was empties than usual, but I did not think much of it, as it was usually empty at that time. However, the next day, everything changed.
 
 
+## Work life balance
+
+Working from home meant that the interactions with the colleagues were 100% virtual. 
 ## Homeoffice where possible
 
 Homeoffice was something I have experience with before. In that day of 13th of March 2020, the first day of homeoffice officially started. The world was just starting to experience the rage of the coronavirus, so to protect us, our company recommended us to work from home.
@@ -60,8 +65,10 @@ And the technical details of each:
 
 ## Looking into the future
 
-Right now there are is the so called "Homeofficepflicht". This means, wherever possible, you should work from home. 
+Right now at the beginning of January 2022, there are is the so called "Homeofficepflicht". This means, wherever possible, you should work from home. 
 
 If you want to work from the office, there is a general 3G (genesen, geteset, geimpft) rule for the whole Germany. 
+
+## What do you think about homeoffice?
 
 What are your experiences with transitioning from in-office work to home-office work? Share your comments below! :) 
